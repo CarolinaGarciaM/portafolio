@@ -1,0 +1,64 @@
+body {
+
+    /* Sección Inicio */
+    #home {
+        height: 100vh;
+    }
+    #textHomeOne {
+        font-size: 20px;
+        font-family: Arial;
+    }
+    #textHomeTwo {
+        font-size: 80px;
+        font-family: Georgia;
+        color: rgba(255, 255, 255, 0.917);
+    }
+    #textHomeThree {
+        font-size: 20px;
+        font-family: Georgia;
+        margin: 50px;
+    }
+
+    /* Sección Sobre mí */
+    #aboutme {
+        height: 100vh;
+    }
+    #imagePerfil {
+        width: 350px;
+        height: 350px;
+        margin: 30px;
+    }
+    #textAboutmeOne {
+        font-size: 20px;
+        margin: 40px;
+        /* padding: 10px; */
+    }
+
+    /* Sección Portafolio */
+    #portfolio {
+        padding: 40px;
+        /* height: 100vh; */
+    }  
+    h1 {
+        font-size: 40px; 
+        font-family: Georgia;
+        padding: 50px; 
+    }
+    #imagePortfolio {
+        width: 320px;
+        height: 200px;
+        border-radius: 4%;
+    }
+    h2 {
+        font-size: 30px;
+        font-family: Georgia;
+        padding: 15px; 
+    }
+
+/* Sección Contacto */
+/* Formulario enviado */
+.alert-success {
+        background-color: rgb(203, 202, 202);
+        color: black;
+    }
+}
